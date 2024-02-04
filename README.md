@@ -15,7 +15,7 @@ This project aims to empower individuals in crafting compelling resumes effortle
 
 
 ## Links to the Demo Project Respectively:
-https://nityaaarya30.github.io/Resume-Generator/
+https://nityaarya30.github.io/Resume-Generator/
 
 ## Contribution 
 Do Star my Project and do contribute to it.
